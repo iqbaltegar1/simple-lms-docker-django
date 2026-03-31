@@ -179,9 +179,11 @@ Dari project ini, dipelajari:
 
 ---
 
+
 ## 👨‍💻 Author
 
-Nama: Iqbal
-Project: Simple LMS - Docker & Django Foundation
+- Nama: Iqbal Tegar Pratama  
+- NIM: A11.2023.14969  
+- Project: Simple LMS - Docker & Django Foundation  
 
 ---
